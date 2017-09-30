@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:Github_Contributions.xcodeproj">
+      location = "self:Open_Source_Practice.xcodeproj">
    </FileRef>
 </Workspace>
