@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  Github_Contributions
+//  Open_Source_Practice
 //
 //  Created by Kevin Tran on 9/30/17.
 //  Copyright © 2017 com.example. All rights reserved.
